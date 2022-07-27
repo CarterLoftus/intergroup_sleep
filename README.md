@@ -1,6 +1,6 @@
 # intergroup_sleep
 
-This repository contains all the code needed to reproduce the results presented in Chapter 3 of my dissertation (The Behavioral Ecology of Sleep in Wild Olive Baboons (Papio anubis)). The README presented here explains where the raw data is located and provides the instructions needed to repeat the data processing and analysis, allowing a reader to completely reproduce the results.
+This repository contains all the code needed to reproduce the results presented in Chapter 3 of my dissertation (The Physiology, Behavioral Ecology, and Collective Dynamics of Sleep in Wild Olive Baboons (Papio anubis)). The README presented here explains where the raw data is located and provides the instructions needed to repeat the data processing and analysis, allowing a reader to completely reproduce the results.
 
 All analyses are based on the GPS and accelerometry data contained within the Movebank project named “Leopards, vervets, and baboons in Laikipia, Kenya”. Please contact Lynne Isbell (laisbell@ucdavis.edu) for permission and access to download the data. The analyses also involved observations of animations of the GPS data during inter-group encounters (see below). These observations are available for download at Dryad (https://doi.org/10.25338/B87D15).
 
