@@ -4,6 +4,8 @@ This repository contains all the code needed to reproduce the results presented 
 
 All analyses are based on the GPS and accelerometry data contained within the Movebank project named “Leopards, vervets, and baboons in Laikipia, Kenya”. Please contact Lynne Isbell (laisbell@ucdavis.edu) for permission and access to download the data. The analyses also involved observations of animations of the GPS data during inter-group encounters (see below). These observations are available for download at Dryad (https://doi.org/10.25338/B87D15).
 
+To repeat the analyses, clone this repository to a local computer, and copy the data into a directory titled "DATA" within the repository.
+
 
 The script “00_data_cleaning.R” loads the GPS data from Movebank, converts the longitude-latitude coordinates to UTM coordinates, separates the data by species, and cleans the data. The data cleaning consists of interpolating GPS fixes to the ideal (i.e. programmed) sampling schedule, interpolating missing location data, and replacing anomalous location data with interpolated locations. The cleaned data is then output as “bab_df.csv”
 
